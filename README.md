@@ -48,6 +48,8 @@ sei-threat-detector/
 2. **Install dependencies**
    ```bash
    npm install
+   # If you get module errors, also install:
+   npm install ts-node typescript @types/node
    ```
 
 3. **Create environment configuration**
